@@ -99,4 +99,4 @@ Fixing Date	3/3/2017
 
 
 You can find more details at
-https://finpricing.com/lib/IrCurveIntroduction.html
+https://finpricing.com/faq.html
