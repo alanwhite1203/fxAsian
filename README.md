@@ -97,6 +97,9 @@ Instrument	GBP/USD
 Fixing Date	3/3/2017		
 
 
+References:
 
-You can find more details at
-https://finpricing.com/faq.html
+https://finpricing.com/lib/EqLookback.html
+
+https://bitbucket.org/cmrm11/fxasian/downloads/FxAsian-18.pdf
+
